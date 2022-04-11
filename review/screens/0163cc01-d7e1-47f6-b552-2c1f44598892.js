@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-0163cc01-d7e1-47f6-b552-2c1f44598892" class="screen growth-both devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Educators" width="1280" height="2500">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/0163cc01-d7e1-47f6-b552-2c1f44598892-1649088074394.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0163cc01-d7e1-47f6-b552-2c1f44598892-1649088074394-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0163cc01-d7e1-47f6-b552-2c1f44598892-1649088074394-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/0163cc01-d7e1-47f6-b552-2c1f44598892-1649712976739.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0163cc01-d7e1-47f6-b552-2c1f44598892-1649712976739-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0163cc01-d7e1-47f6-b552-2c1f44598892-1649712976739-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph" class="pie richtext autofit firer ie-background commentable non-processed" customid="Search for &quot;Stroke&quot;"   datasizewidth="204.3px" datasizeheight="25.0px" dataX="121.9" dataY="264.0" >\
         <div class="backgroundLayer">\
@@ -584,96 +584,6 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_24" class="pie richtext autofit firer ie-background commentable non-processed" customid="Ischemic Stroke"   datasizewidth="142.3px" datasizeheight="22.0px" dataX="379.0" dataY="1897.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_24_0">Ischemic Stroke</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_25" class="pie richtext autofit firer ie-background commentable non-processed" customid="Laura Stein"   datasizewidth="81.8px" datasizeheight="18.0px" dataX="379.0" dataY="1923.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_25_0">Laura Stein</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_38" class="pie richtext autofit firer ie-background commentable non-processed" customid="April 2022"   datasizewidth="72.0px" datasizeheight="18.0px" dataX="379.0" dataY="1943.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_38_0">April 2022</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_39" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Stroke in Children"   datasizewidth="207.0px" datasizeheight="22.0px" dataX="379.9" dataY="1990.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_39_0">Stroke in Children</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_40" class="pie richtext autofit firer ie-background commentable non-processed" customid="Alison Christy"   datasizewidth="97.8px" datasizeheight="18.0px" dataX="379.9" dataY="2016.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_40_0">Alison Christy</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
-      <div id="s-Paragraph_41" class="pie richtext autofit firer ie-background commentable non-processed" customid="May 2022"   datasizewidth="70.3px" datasizeheight="18.0px" dataX="379.9" dataY="2036.0" >\
-        <div class="backgroundLayer">\
-          <div class="colorLayer"></div>\
-          <div class="imageLayer"></div>\
-        </div>\
-        <div class="borderLayer">\
-          <div class="paddingLayer">\
-            <div class="content">\
-              <div class="valign">\
-                <span id="rtr-s-Paragraph_41_0">May 2022</span>\
-              </div>\
-            </div>\
-          </div>\
-        </div>\
-      </div>\
       <div id="s-Paragraph_45" class="pie richtext autofit firer ie-background commentable non-processed" customid="New from the AAN"   datasizewidth="175.6px" datasizeheight="22.0px" dataX="379.0" dataY="265.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
@@ -943,6 +853,114 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/6d8d7644-02b7-4e1d-883a-81b7c658ff1c.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Ischemic Stroke"   datasizewidth="142.3px" datasizeheight="22.0px" dataX="388.0" dataY="1985.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_8_0">Ischemic Stroke</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="Laura Stein"   datasizewidth="81.8px" datasizeheight="18.0px" dataX="388.0" dataY="2011.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_10_0">Laura Stein</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="April 2022"   datasizewidth="72.0px" datasizeheight="18.0px" dataX="388.0" dataY="2031.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_13_0">April 2022</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_14" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Stroke in Children"   datasizewidth="207.0px" datasizeheight="22.0px" dataX="682.0" dataY="1994.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_14_0">Stroke in Children</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_15" class="pie richtext autofit firer ie-background commentable non-processed" customid="Alison Christy"   datasizewidth="97.8px" datasizeheight="18.0px" dataX="682.0" dataY="2020.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_15_0">Alison Christy</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+      <div id="s-Paragraph_16" class="pie richtext autofit firer ie-background commentable non-processed" customid="May 2022"   datasizewidth="70.3px" datasizeheight="18.0px" dataX="682.0" dataY="2040.0" >\
+        <div class="backgroundLayer">\
+          <div class="colorLayer"></div>\
+          <div class="imageLayer"></div>\
+        </div>\
+        <div class="borderLayer">\
+          <div class="paddingLayer">\
+            <div class="content">\
+              <div class="valign">\
+                <span id="rtr-s-Paragraph_16_0">May 2022</span>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+      </div>\
+\
+      <div id="s-Image_7" class="pie image lockV firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="178.3px" datasizeheight="83.5px" dataX="374.0" dataY="1901.0" aspectRatio="0.46831954"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/80c6d45a-2bdb-4eae-a4c6-6cf3c0422181.jpg" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_10" class="pie image lockV firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="178.3px" datasizeheight="83.5px" dataX="670.4" dataY="1901.0" aspectRatio="0.46831954"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/80c6d45a-2bdb-4eae-a4c6-6cf3c0422181.jpg" />\
         	</div>\
         </div>\
       </div>\

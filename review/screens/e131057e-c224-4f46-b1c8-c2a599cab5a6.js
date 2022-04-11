@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-e131057e-c224-4f46-b1c8-c2a599cab5a6" class="screen growth-both devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Stroke Search" width="1280" height="2700">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/e131057e-c224-4f46-b1c8-c2a599cab5a6-1649088074394.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/e131057e-c224-4f46-b1c8-c2a599cab5a6-1649088074394-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/e131057e-c224-4f46-b1c8-c2a599cab5a6-1649088074394-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/e131057e-c224-4f46-b1c8-c2a599cab5a6-1649712976739.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/e131057e-c224-4f46-b1c8-c2a599cab5a6-1649712976739-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/e131057e-c224-4f46-b1c8-c2a599cab5a6-1649712976739-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph" class="pie richtext autofit firer ie-background commentable non-processed" customid="Search for &quot;Stroke&quot;"   datasizewidth="204.3px" datasizeheight="25.0px" dataX="121.9" dataY="264.0" >\
         <div class="backgroundLayer">\

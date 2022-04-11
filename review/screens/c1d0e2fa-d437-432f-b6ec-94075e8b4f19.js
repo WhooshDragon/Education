@@ -2,9 +2,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649088074394-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1649712976739-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       </div>\
 \
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-c1d0e2fa-d437-432f-b6ec-94075e8b4f19" class="screen growth-both devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Non-Members" width="1280" height="1150">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/c1d0e2fa-d437-432f-b6ec-94075e8b4f19-1649088074394.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/c1d0e2fa-d437-432f-b6ec-94075e8b4f19-1649088074394-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/c1d0e2fa-d437-432f-b6ec-94075e8b4f19-1649088074394-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/c1d0e2fa-d437-432f-b6ec-94075e8b4f19-1649712976739.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/c1d0e2fa-d437-432f-b6ec-94075e8b4f19-1649712976739-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/c1d0e2fa-d437-432f-b6ec-94075e8b4f19-1649712976739-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Paragraph" class="pie richtext autofit firer ie-background commentable non-processed" customid="Search for &quot;Stroke&quot;"   datasizewidth="204.3px" datasizeheight="25.0px" dataX="121.9" dataY="264.0" >\
         <div class="backgroundLayer">\
@@ -184,7 +184,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_23" class="pie richtext autofit firer ie-background commentable non-processed" customid="Short Videos"   datasizewidth="123.3px" datasizeheight="22.0px" dataX="379.0" dataY="591.1" >\
+      <div id="s-Paragraph_23" class="pie richtext autofit firer ie-background commentable non-processed" customid="Short Videos"   datasizewidth="123.3px" datasizeheight="22.0px" dataX="379.0" dataY="815.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -199,7 +199,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_26" class="pie richtext autofit firer ie-background commentable non-processed" customid="NeuroEssentials"   datasizewidth="156.7px" datasizeheight="22.0px" dataX="379.0" dataY="846.0" >\
+      <div id="s-Paragraph_26" class="pie richtext autofit firer ie-background commentable non-processed" customid="NeuroEssentials"   datasizewidth="156.7px" datasizeheight="22.0px" dataX="379.0" dataY="583.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -292,7 +292,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Rectangle_1" class="pie rectangle manualfit firer ie-background commentable non-processed" customid="Rectangle"   datasizewidth="207.9px" datasizeheight="128.5px" datasizewidthpx="207.87285156250027" datasizeheightpx="128.5" dataX="379.0" dataY="635.1" >\
+      <div id="s-Rectangle_1" class="pie rectangle manualfit firer ie-background commentable non-processed" customid="Rectangle"   datasizewidth="207.9px" datasizeheight="128.5px" datasizewidthpx="207.87285156250027" datasizeheightpx="128.5" dataX="379.0" dataY="859.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -307,7 +307,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_36" class="pie richtext autofit firer ie-background commentable non-processed" customid="Thrombectomy (For Patient"   datasizewidth="208.1px" datasizeheight="18.0px" dataX="379.0" dataY="778.1" >\
+      <div id="s-Paragraph_36" class="pie richtext autofit firer ie-background commentable non-processed" customid="Thrombectomy (For Patient"   datasizewidth="208.1px" datasizeheight="18.0px" dataX="379.0" dataY="1002.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -485,7 +485,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Ischemic Stroke"   datasizewidth="142.3px" datasizeheight="22.0px" dataX="379.0" dataY="885.0" >\
+      <div id="s-Paragraph_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Ischemic Stroke"   datasizewidth="142.3px" datasizeheight="22.0px" dataX="388.0" dataY="712.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -500,7 +500,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="Laura Stein"   datasizewidth="81.8px" datasizeheight="18.0px" dataX="379.0" dataY="911.0" >\
+      <div id="s-Paragraph_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="Laura Stein"   datasizewidth="81.8px" datasizeheight="18.0px" dataX="388.0" dataY="738.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -515,7 +515,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="April 2022"   datasizewidth="72.0px" datasizeheight="18.0px" dataX="379.0" dataY="931.0" >\
+      <div id="s-Paragraph_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="April 2022"   datasizewidth="72.0px" datasizeheight="18.0px" dataX="388.0" dataY="758.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -530,7 +530,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_14" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Stroke in Children"   datasizewidth="207.0px" datasizeheight="22.0px" dataX="379.9" dataY="978.0" >\
+      <div id="s-Paragraph_14" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Stroke in Children"   datasizewidth="207.0px" datasizeheight="22.0px" dataX="682.0" dataY="721.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -545,7 +545,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_15" class="pie richtext autofit firer ie-background commentable non-processed" customid="Alison Christy"   datasizewidth="97.8px" datasizeheight="18.0px" dataX="379.9" dataY="1004.0" >\
+      <div id="s-Paragraph_15" class="pie richtext autofit firer ie-background commentable non-processed" customid="Alison Christy"   datasizewidth="97.8px" datasizeheight="18.0px" dataX="682.0" dataY="747.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -560,7 +560,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_16" class="pie richtext autofit firer ie-background commentable non-processed" customid="May 2022"   datasizewidth="70.3px" datasizeheight="18.0px" dataX="379.9" dataY="1024.0" >\
+      <div id="s-Paragraph_16" class="pie richtext autofit firer ie-background commentable non-processed" customid="May 2022"   datasizewidth="70.3px" datasizeheight="18.0px" dataX="682.0" dataY="767.6" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -613,6 +613,24 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/6d8d7644-02b7-4e1d-883a-81b7c658ff1c.png" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_2" class="pie image lockV firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="178.3px" datasizeheight="83.5px" dataX="374.0" dataY="629.1" aspectRatio="0.46831954"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/80c6d45a-2bdb-4eae-a4c6-6cf3c0422181.jpg" />\
+        	</div>\
+        </div>\
+      </div>\
+\
+\
+      <div id="s-Image_3" class="pie image lockV firer ie-background commentable non-processed" customid="Image 2"   datasizewidth="178.3px" datasizeheight="83.5px" dataX="670.4" dataY="628.6" aspectRatio="0.46831954"   alt="image">\
+        <div class="borderLayer">\
+        	<div class="imageViewport">\
+        		<img src="./images/80c6d45a-2bdb-4eae-a4c6-6cf3c0422181.jpg" />\
         	</div>\
         </div>\
       </div>\
